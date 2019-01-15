@@ -1,0 +1,15 @@
+.list{
+    display: flex;
+    flex-flow: row wrap;
+
+    
+}
+
+.shop{
+    display: flex;
+    width: 30%;
+    border: 1px solid black;
+    flex-grow: 1;
+    justify-content: space-around;
+
+}
